@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<Mnemoscheme xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="5">
+  <MnemoID>81:5O1DZ8lW1724669}c1RtdSQb</MnemoID>
+  <Width>1024</Width>
+  <Height>736</Height>
+  <IsBackGroundImage>true</IsBackGroundImage>
+  <PathBmp>_static.tiff</PathBmp>
+  <ColorBackGround>16777215</ColorBackGround>
+  <ColorBackGroundHTML>#ffffff</ColorBackGroundHTML>
+  <ColorRGBBackGroundHTML>R:255 G:255 B:255</ColorRGBBackGroundHTML>
+  <StretchBackGround>true</StretchBackGround>
+  <TileBackGround>false</TileBackGround>
+  <ColorLight>16777215</ColorLight>
+  <ColorLightHTML>#ffffff</ColorLightHTML>
+  <ColorRGBLightHTML>R:255 G:255 B:255</ColorRGBLightHTML>
+  <ColorItemFrame>0</ColorItemFrame>
+  <ShowItemFrame>false</ShowItemFrame>
+  <DrawAccuracy>2</DrawAccuracy>
+  <DirectionX>-1</DirectionX>
+  <DirectionY>-1</DirectionY>
+  <DirectionZ>-1</DirectionZ>
+  <RepaintTime>100</RepaintTime>
+  <ShimmerTime>1000</ShimmerTime>
+  <ImitationPeriod>10000</ImitationPeriod>
+  <NeedStateContext>false</NeedStateContext>
+  <PageSettings>
+    <Landscape>true</Landscape>
+  </PageSettings>
+</Mnemoscheme>
